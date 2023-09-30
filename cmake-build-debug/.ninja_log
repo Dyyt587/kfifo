@@ -1,0 +1,7 @@
+# ninja log v5
+5	57	7177524092926672	CMakeFiles/untitled.dir/kfifo.c.obj	9c4a8b72565c5021
+4	62	7177524092976649	CMakeFiles/untitled.dir/com_sync.c.obj	b674a092740f50ff
+2	73	7177524661385698	build.ninja	ab500e0e1ad8bae4
+2	242	7177524094784936	CMakeFiles/untitled.dir/main.cpp.obj	5ec377e635e46cb2
+2	60	7177524410797728	untitled.exe	c2a2a8eb6196c539
+0	85	7177524661385698	build.ninja	ab500e0e1ad8bae4
